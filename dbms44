@@ -1,0 +1,4 @@
+desc table is used to show the structure of table
+select*from table name is used to show the table
+modify is used to change columns name in the table
+drop is used to delete a table 
